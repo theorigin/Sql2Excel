@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL2Excel", "SQL2Excel\SQL2Excel.csproj", "{B2C9CE11-6544-4C00-A862-32DEBDF7A22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL2Excel.Tests", "SQL2Excel.Tests\SQL2Excel.Tests.csproj", "{AFE78001-CE56-4432-8382-22511F146D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C9CE11-6544-4C00-A862-32DEBDF7A22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C9CE11-6544-4C00-A862-32DEBDF7A22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C9CE11-6544-4C00-A862-32DEBDF7A22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C9CE11-6544-4C00-A862-32DEBDF7A22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE78001-CE56-4432-8382-22511F146D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE78001-CE56-4432-8382-22511F146D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE78001-CE56-4432-8382-22511F146D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE78001-CE56-4432-8382-22511F146D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
